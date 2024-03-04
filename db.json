@@ -1,0 +1,199 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "legal entity": "pausalac",
+      "firm-id": 13412,
+      "name": "Aiko Bank",
+      "employee": 4
+    },
+    {
+      "id": 2,
+      "legal entity": "doo",
+      "firm-id": 52463,
+      "name": "Evergreen Solutions",
+      "employee": 12
+    },
+    {
+      "id": 3,
+      "legal entity": "pausalac",
+      "firm-id": 92137,
+      "name": "BlueSky Enterprises",
+      "employee": 7
+    },
+    {
+      "id": 4,
+      "legal entity": "doo",
+      "firm-id": 65182,
+      "name": "Sunset Corporation",
+      "employee": 18
+    },
+    {
+      "id": 5,
+      "legal entity": "pausalac",
+      "firm-id": 31845,
+      "name": "Golden Gate Investments",
+      "employee": 5
+    },
+    {
+      "id": 6,
+      "legal entity": "doo",
+      "firm-id": 74029,
+      "name": "Northern Lights Consulting",
+      "employee": 9
+    },
+    {
+      "id": 7,
+      "legal entity": "pausalac",
+      "firm-id": 62904,
+      "name": "Silver Lining Enterprises",
+      "employee": 11
+    },
+    {
+      "id": 8,
+      "legal entity": "doo",
+      "firm-id": 85163,
+      "name": "Redwood Solutions",
+      "employee": 15
+    },
+    {
+      "id": 9,
+      "legal entity": "pausalac",
+      "firm-id": 49261,
+      "name": "GreenVista Corporation",
+      "employee": 6
+    },
+    {
+      "id": 10,
+      "legal entity": "doo",
+      "firm-id": 23547,
+      "name": "Oceanview Technologies",
+      "employee": 22
+    },
+    {
+      "id": 11,
+      "legal entity": "pausalac",
+      "firm-id": 57283,
+      "name": "Skyline Investments",
+      "employee": 8
+    },
+    {
+      "id": 12,
+      "legal entity": "doo",
+      "firm-id": 71639,
+      "name": "WestEnd Solutions",
+      "employee": 14
+    },
+    {
+      "id": 13,
+      "legal entity": "pausalac",
+      "firm-id": 84927,
+      "name": "MountainPeak Enterprises",
+      "employee": 10
+    },
+    {
+      "id": 14,
+      "legal entity": "doo",
+      "firm-id": 68392,
+      "name": "Sunrise Corporation",
+      "employee": 17
+    },
+    {
+      "id": 15,
+      "legal entity": "pausalac",
+      "firm-id": 28746,
+      "name": "Starlight Investments",
+      "employee": 3
+    },
+    {
+      "id": 16,
+      "legal entity": "doo",
+      "firm-id": 92014,
+      "name": "GoldenBridge Technologies",
+      "employee": 13
+    },
+    {
+      "id": 17,
+      "legal entity": "pausalac",
+      "firm-id": 72935,
+      "name": "Bluebird Enterprises",
+      "employee": 19
+    },
+    {
+      "id": 18,
+      "legal entity": "doo",
+      "firm-id": 51739,
+      "name": "GreenLeaf Solutions",
+      "employee": 8
+    },
+    {
+      "id": 19,
+      "legal entity": "pausalac",
+      "firm-id": 63928,
+      "name": "Rainbow Corporation",
+      "employee": 6
+    },
+    {
+      "id": 20,
+      "legal entity": "doo",
+      "firm-id": 73849,
+      "name": "Blackstone Technologies",
+      "employee": 21
+    },
+    {
+      "id": 21,
+      "legal entity": "pausalac",
+      "firm-id": 47291,
+      "name": "SilverStar Investments",
+      "employee": 11
+    },
+    {
+      "id": 22,
+      "legal entity": "doo",
+      "firm-id": 62847,
+      "name": "Everest Solutions",
+      "employee": 16
+    },
+    {
+      "id": 23,
+      "legal entity": "pausalac",
+      "firm-id": 57192,
+      "name": "SkyHigh Enterprises",
+      "employee": 7
+    },
+    {
+      "id": 24,
+      "legal entity": "doo",
+      "firm-id": 71438,
+      "name": "Horizon Technologies",
+      "employee": 20
+    },
+    {
+      "id": 25,
+      "legal entity": "pausalac",
+      "firm-id": 39284,
+      "name": "GreenPastures Corporation",
+      "employee": 5
+    },
+    {
+      "id": 26,
+      "legal entity": "doo",
+      "firm-id": 62973,
+      "name": "BlueWave Solutions",
+      "employee": 12
+    },
+    {
+      "id": 27,
+      "legal entity": "pausalac",
+      "firm-id": 72583,
+      "name": "RedSky Investments",
+      "employee": 9
+    },
+    {
+      "id": 28,
+      "legal entity": "doo",
+      "firm-id": 81029,
+      "name": "SunsetTech Corporation",
+      "employee": 15
+    }
+}
